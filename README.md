@@ -38,3 +38,7 @@
 <a href="https://ibb.co/vH3NmST"><img src="https://i.ibb.co/s2KTQZN/image.png" alt="image" border="0"></a>
 
 
+а ещё мне стало интересно что покажут метаданые с телефона на котором есть не ориг гугл камера
+
+<a href="https://ibb.co/zHXPP7Z"><img src="https://i.ibb.co/HptGGxq/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/nb9k7HL"><img src="https://i.ibb.co/80q8rW7/image.png" alt="image" border="0"></a>
