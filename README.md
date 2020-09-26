@@ -19,3 +19,22 @@
 
 
 ![](tenor.gif)
+
+
+вобщем я решил сделать фото и сразу на телефоне посмотреть метаданные
+
+т.к соц сети удаляют метаданные 
+
+![](tenor1.gif)
+
+и получил это
+
+<a href="https://ibb.co/dMHrW04"><img src="https://i.ibb.co/vqMHwx4/image.png" alt="image" border="0"></a>
+
+
+<a href="https://ibb.co/N7Tcs2r"><img src="https://i.ibb.co/vDX0H4h/image.png" alt="image" border="0"></a>
+
+
+<a href="https://ibb.co/vH3NmST"><img src="https://i.ibb.co/s2KTQZN/image.png" alt="image" border="0"></a>
+
+
