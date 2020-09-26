@@ -40,5 +40,16 @@
 
 а ещё мне стало интересно что покажут метаданые с телефона на котором есть не ориг гугл камера
 
-<a href="https://ibb.co/zHXPP7Z"><img src="https://i.ibb.co/HptGGxq/image.png" alt="image" border="0"></a>
-<a href="https://ibb.co/nb9k7HL"><img src="https://i.ibb.co/80q8rW7/image.png" alt="image" border="0"></a>
+
+<a href="https://ibb.co/DgJK2tD"><img src="https://i.ibb.co/fGg0w2Y/image.png" alt="image" border="0"></a>
+
+изменения были только в пунтке програмного обеспечиния 
+т.е в ориг камере версия прошивки смарта,а в случае гугл камеры версия HDR+ билда
+
+
+не особо интересное иследование ну да ладно 
+
+
+![](tenor2.gif)
+
+
