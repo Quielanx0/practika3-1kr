@@ -81,3 +81,14 @@ mrdeepfakes.com
 
 а чё а всмысле
  
+спустя два часа и одну переустановку SQL о боже оно заработало 
+<a href="https://ibb.co/SsNj5yj"><img src="https://i.ibb.co/3r134d3/image.png" alt="image" border="0"></a>
+
+ну а я че парень простой
+пробил steamdb.info
+ничего
+пробил mirea.ru
+ничего
+крута класс
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Sw2v6FP/image.png" alt="image" border="0"></a>
+балдеж ограничение на запросы -_-
