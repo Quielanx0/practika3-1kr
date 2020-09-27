@@ -217,3 +217,40 @@ mrdeepfakes.com
 
 ну и всё реестр чист, файлов нет 
 
+
+
+ну дальше востановление и затирание окей
+
+
+есть значит два стула
+
+
+<a href="https://ibb.co/mqyRyKZ"><img src="https://i.ibb.co/Ltg0gyj/image.png" alt="image" border="0"></a>
+
+
+
+значит я просто удалил одну пикчу, вторую удалил через revo 
+
+
+запустил 
+
+recuva и понял
+
+
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/x3ZhmGK/image.png" alt="image" border="0"></a>
+
+
+надо бы новую папку создать и там это делать 
+
+
+ну сделал повторил
+
+
+ииии ничего не поменялось ладно подождём 
+
+
+
+
+
