@@ -103,3 +103,61 @@ mrdeepfakes.com
 
 ну вот анализ стим дб онли html 
 короче принцип работы фоки ясень,но инструмент специфичный
+
+
+дальше ccleaner призираймая мною программа 
+дубликат файлов можно создать и самому, удаление в cc такое себе, чистка реэстра им скорее винду положит чем поможет
+вобще все нужны утили в обычном таком плане можно взять из window repair toolbox
+
+
+<a href="https://ibb.co/xj3Bchp"><img src="https://i.ibb.co/XsVKdXh/image.png" alt="image" border="0"></a>
+
+фаст копи для копирования и востановления 
+
+рег сикер для реестра рево для удаления программ 
+
+авторан для чистки автозагрузки полностью
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Sw6VB50/image.png" alt="image" border="0"></a>
+
+
+также в рево есть свой контроль автозапуска удаления без возможности востановления 
+
+чистка мусора 
+
+в тысяча раз лучше cc
+
+например удаление
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/v18z7wM/image.png" alt="image" border="0"></a>
+
+
+вот беру юзлес мусор
+
+
+во первых мне прдлагают точку востановления 
+
+
+<a href="https://ibb.co/2kMVmhc"><img src="https://i.ibb.co/tJ2jkKY/image.png" alt="image" border="0"></a>
+
+
+во вторых обычный деинсталятор 
+
+
+<a href="https://ibb.co/4Kj509T"><img src="https://i.ibb.co/VJvPkrS/image.png" alt="image" border="0"></a>
+
+
+в третих проверка реестра и остаточных файлов программы 
+
+
+<a href="https://ibb.co/Q977mFb"><img src="https://i.ibb.co/y0mmsnf/image.png" alt="image" border="0"></a>
+
+
+
+<a href="https://ibb.co/LN2Jvwb"><img src="https://i.ibb.co/MB3G9TW/image.png" alt="image" border="0"></a>
+
+
+ну и всё реестр чист, файлов нет 
+
