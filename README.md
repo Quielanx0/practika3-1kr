@@ -256,3 +256,9 @@ recuva и понял
 
 
 мое лицо после конца сканирования файлов
+
+
+ибо сейчас время сканирования такое 
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/2cvsMxG/image.png" alt="image" border="0"></a>
