@@ -29,8 +29,7 @@
 
 и получил это
 
-<a href="https://ibb.co/dMHrW04"><img src="https://i.ibb.co/vqMHwx4/image.png" alt="image" border="0"></a>
-
+<a href="https://ibb.co/gW7s1yR"><img src="https://i.ibb.co/LgP4wSZ/image.png" alt="image" border="0"></a>
 
 <a href="https://ibb.co/N7Tcs2r"><img src="https://i.ibb.co/vDX0H4h/image.png" alt="image" border="0"></a>
 
