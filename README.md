@@ -381,3 +381,6 @@ recuva и понял
  ![](tenor7.gif)
 
 [![](giphy.gif)](https://www.youtube.com/watch?v=_QZKUyu2rfM)
+
+
+я настолько постиг комедию что ласт гифка кликабельна <a href="https://imgbb.com/"><img src="https://i.ibb.co/17fFSrS/image-2020-09-29-221141.png" alt="image-2020-09-29-221141" border="0"></a>
