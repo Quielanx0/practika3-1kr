@@ -381,4 +381,4 @@ recuva и понял
  ![](tenor7.gif)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_QZKUyu2rfM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Demo CountPages alpha](https://giphy.com/gifs/gorin-xLQUDC7Tih0qhsf8BF)](https://www.youtube.com/watch?v=_QZKUyu2rfM)
