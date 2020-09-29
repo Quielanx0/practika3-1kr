@@ -380,4 +380,4 @@ recuva и понял
 
  ![](tenor7.gif)
 
-[![Watch the video]( ![](tenor7.gif))](https://www.youtube.com/watch?v=_QZKUyu2rfM)
+[![Watch the video]( )](https://www.youtube.com/watch?v=_QZKUyu2rfM)
