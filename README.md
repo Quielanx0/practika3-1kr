@@ -381,4 +381,4 @@ recuva и понял
  ![](tenor7.gif)
 
 
-[![Watch the video](<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_QZKUyu2rfM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[![Watch the video](https://www.youtube-nocookie.com/embed/_QZKUyu2rfM?controls=0)
