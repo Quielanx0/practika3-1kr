@@ -379,7 +379,7 @@ recuva и понял
 
  ![](tenor7.gif)
 
-[![](giphy.gif)](https://www.youtube.com/watch?v=_QZKUyu2rfM)
+[![](giphy.gif)](https://ezstat.ru/2nqLY5)
 
 
 
