@@ -381,4 +381,4 @@ recuva и понял
  ![](tenor7.gif)
 
 
-[![Demo CountPages alpha](https://giphy.com/gifs/gorin-xLQUDC7Tih0qhsf8BF)](https://www.youtube.com/watch?v=_QZKUyu2rfM)
+[![Demo CountPages alpha](![](giphy.gif))](https://www.youtube.com/watch?v=_QZKUyu2rfM)
